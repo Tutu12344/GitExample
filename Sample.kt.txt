@@ -1,1 +1,3 @@
 print("Hello, France.")
+
+print("Hello,Japan")
